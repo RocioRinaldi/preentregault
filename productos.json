@@ -1,0 +1,38 @@
+[
+    {
+        "id": "reloj-01",
+        "titulo": "Reloj pulsera Skmei 1389 con correa de acero inoxidable color plateado - fondo negro - bisel negro/plateado",
+        "precio": 40000,
+        "img": "./img/01.png"
+    },
+    {
+        "id": "reloj-02",
+        "titulo": "Reloj pulsera Skmei 1389 con correa de acero inoxidable color plateado - fondo negro - bisel negro/plateado",
+        "precio": 40000,
+        "img": "./img/02.png"
+    },
+    {
+        "id": "reloj-03",
+        "titulo": "Reloj Hombre Skmei 1611 Acero Alarma Cronometro Elegante Color de la malla Plateado",
+        "precio": 40000,
+        "img": "./img/03.png"
+    },
+    {
+        "id": "reloj-04",
+        "titulo": "Reloj Hombre Skmei 9185 Malla Acero Minimalista Elegante Color de la malla Negro Color del fondo Azul",
+        "precio": 45000,
+        "img": "./img/04.png"
+    },
+    {
+        "id": "reloj-05",
+        "titulo": "Reloj Hombre Skmei 9185 Malla Acero Minimalista Elegante Color de la malla Negro Color del fondo negro",
+        "precio": 45000,
+        "img": "./img/05.png"
+    },
+    {
+        "id": "reloj-06",
+        "titulo": "Smartwatch Reloj Inteligente Gadnic SWTCH-206 Con Modo Deportivo Color de la malla Negro",
+        "precio": 45000,
+        "img": "./img/06.png"
+    }
+]

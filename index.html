@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DaaisyTienda</title>
+    <link rel="stylesheet" href="./css/estilo.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+
+</head>
+<body>
+    <header class="header">
+        <div class="container-header">
+            <img class="header-img" src="./img/header.png" alt="Reloj" >
+            <h1 class="titulo-header">Tienda de Relojes</h1>
+        </div>
+    </header>
+    <main class="main">
+        <section class="container">
+            <h2 class="titulo">Reloj Caballeros</h2>
+            <div class="productos" id="productos">
+            </div>
+        </section>
+        <section class="container">
+            <h2 class="titulo">Carrito</h2>
+            <div class="carrito">
+                <div id="carrito-vacio" class="">
+                    <h4>Tu carrito está vacío. </h4>
+                </div>
+                <div class="carrito-productos d-none" id="carrito-productos">
+                </div>
+                <button class="d-none" id="vaciar-carrito">Vaciar carrito</button>
+                <div class="carrito-total">
+                    <h2 class="titulo">Total: <span id="carrito-total">$0</span></h2>
+                </div>
+                <button class="d-none" id="finalizar-compra">Finalizar compra</button>
+            </div>
+        </section>
+    </main>
+    <footer class="footer">
+        <div class="container">
+            <p>DaaisyTienda ©2024</p>
+        </div>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="./js/main.js"></script>
+</body>
+</html>
